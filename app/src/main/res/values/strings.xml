@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReadingNotes</string>
+
+    <string name="book_title_placeholder">书名</string>
+    <string name="author_placeholder">作者</string>
+    <string name="publisher_placeholder">出版社</string>
+    <string name="pub_date_placeholder">出版日期</string>
+    <string name="book_cover_description">书籍封面</string>
+</resources>
